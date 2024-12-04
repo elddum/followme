@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: FollowMe
+## Author: Muddle
+## SavedVariablesPerCharacter: settings
+FollowMe.xml
